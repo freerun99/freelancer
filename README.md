@@ -1,5 +1,6 @@
 # freelancer
 سریع ترین روش مطلع شدن از اعلانات سایت های معروف فریلنسری مثل کالنسر و پونیشا
+لینک دانلود : https://codeload.github.com/freerun99/freelancer/zip/refs/heads/main
 
 راهنما:
 1_ از قسمت code دانلود فایل زیپ را بزنید تا برنامه را دانلود کنید 
