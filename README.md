@@ -1,4 +1,4 @@
-# freelancer v1.0
+# freelancer v2.0
 سریع ترین روش مطلع شدن از اعلانات سایت های معروف فریلنسری مثل کالنسر و پونیشا
 
     https://codeload.github.com/freerun99/freelancer/zip/refs/heads/main
